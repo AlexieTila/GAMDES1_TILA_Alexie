@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://b3mfggvmob4rr"]
+
+[node name="Main" type="Node2D" unique_id=1235191292]
+
+[node name="Player" type="Sprite2D" parent="." unique_id=501330712]
+
+[node name="Camera" type="Sprite2D" parent="Player" unique_id=1750390611]
+
+[node name="ScoreLabel" type="Sprite2D" parent="." unique_id=1708631201]
